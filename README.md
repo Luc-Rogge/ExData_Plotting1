@@ -1,3 +1,61 @@
+# My submission
+
+As requested, the main directory contains the files:
+
+* plot1.png, plot2.png, plot3.png, plot4.png
+* plot1.R, plot2.R, plot3.R, plot4.R
+
+## Plot 1
+
+Source code: [plot1.R](plot1.R) 
+
+### My plot
+
+![my plot](plot1.png) 
+
+### Teacher's plot
+
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-2.png) 
+
+## Plot 2
+
+Source code: [plot2.R](plot2.R) 
+
+### My plot
+
+![my plot](plot2.png) 
+
+### Teacher's plot
+
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-3.png) 
+
+## Plot 3
+
+Source code: [plot3.R](plot3.R) 
+
+### My plot
+
+![my plot](plot3.png) 
+
+### Teacher's plot
+
+![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-4.png) 
+
+## Plot 4
+
+Source code: [plot4.R](plot4.R) 
+
+### My plot
+
+![my plot](plot4.png) 
+
+### Teacher's plot
+
+![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-5.png) 
+
+
+# Original instructions from the teacher
+
 ## Introduction
 
 This assignment uses data from
@@ -33,11 +91,8 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
+
 ## Loading the data
-
-
-
-
 
 When loading the dataset into R, please consider the following:
 
